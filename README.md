@@ -57,6 +57,6 @@
 <h3 align="left">🔥   My Stats </h3>
 <p  align= "center">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=ny030303&show_icons=true&include_all_commits=true&theme=transparent">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ny030303&theme=transparent">
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ny030303&theme=transparent&layout=compact&hide=css,html">
 </p>
     
