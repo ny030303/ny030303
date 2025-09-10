@@ -6,9 +6,10 @@
 
 ###
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a href=https://www.linkedin.com/in/%EB%82%98%EC%98%81-%EC%A0%95-5247972a1/><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
+  <a href=https://www.youtube.com/@nine288><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  /></a>
+  <a href=https://www.notion.so/12e95522b90f80a1b2abc5a222415d1b?source=copy_link> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/12e95522b90f80a1b2abc5a222415d1b?source=copy_link " height="25"> </a>
+  <a href=mailto:ny030303@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ny030303@gmail.com" height="25"> </a>
 </div>
 
 ###
@@ -17,7 +18,7 @@
 
 ###
 
-<h1 align="center">반갑습니다!  개발자이자 연구원, 정나영입니다 👋</h1>
+<h1 align="center">반갑습니다! 정나영입니다 👋</h1>
 
 ###
 
@@ -54,7 +55,7 @@
           <br/></div>
 
 <h3 align="left">🔥   My Stats </h3>
-<p>
+<p  align= "center">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=ny030303&show_icons=true&include_all_commits=true&theme=transparent">
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ny030303&theme=transparent">
 </p>
